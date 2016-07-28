@@ -46,8 +46,10 @@ public class BallsGame {
 		
 	}
 	
-	static void explode(List<Integer> l){
-		boolean exploded = false;
+	
+	
+	
+	static int explode(List<Integer> l){
 		int ref = -1;
 		int count = 0;
 		
