@@ -1,4 +1,4 @@
-package codeforce.list2;
+package codeforce.list1;
 
 import java.util.Scanner;
 
