@@ -1,3 +1,5 @@
+import java.util.LinkedList;
+
 
 
 public class Info {
@@ -11,4 +13,6 @@ public class Info {
 	 *	byte	8	– 128 to 127
 	 *
 	 */
+	
+	LinkedList l;
 }
