@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Date: 13/07/2018
- * @author eduardo
+ * @author eduardolfalcao
  *
  * worst case: O(n^2), (n-1) + (n-2) + ... + (n-(n-1)) - (n-n) = n^2 - Arithmetic Progression = n^2 - (n*(1+n))/2
  * = n^2 - (n+n^2)/2 = n^2 - n/2 - (n^2)/2 = (2n^2 - n^2 -n)/2 = (n^2 - n)/2 = n(n-1)/2

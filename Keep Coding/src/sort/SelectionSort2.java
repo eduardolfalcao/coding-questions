@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Date: 13/07/2018
- * @author eduardo
+ * @author eduardolfalcao
  * 
  * Find the lower element on the list, swap it with the first element,
  * do the process again starting from the subsequent element.
